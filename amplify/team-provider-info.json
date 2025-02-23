@@ -10,6 +10,14 @@
       "StackName": "amplify-astrossr-dev-387dc",
       "StackId": "arn:aws:cloudformation:us-west-1:674586854642:stack/amplify-astrossr-dev-387dc/97ea5a30-f223-11ef-ad85-02945cfb9049",
       "AmplifyAppId": "d1ogthr4kwrkww"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1ogthr4kwrkww",
+          "type": "cicd"
+        }
+      }
     }
   }
 }
